@@ -11,3 +11,5 @@ It combines **emotion classification (DistilBERT)** with a **RAG-style retrieval
 - **Few-Shot Prompting**: predefined empathetic templates per emotion.  
 - **Interactive UI** built with **Streamlit** (WhatsApp-style chat design).  
 - **Ngrok Tunneling** for easy public deployment.  
+Google Drive for Demo :
+https://drive.google.com/drive/folders/1sjNTicQS6ycsTgAETt1Nkdpf2Wm4vDLs?usp=drive_link
