@@ -13,3 +13,5 @@ It combines **emotion classification (DistilBERT)** with a **RAG-style retrieval
 - **Ngrok Tunneling** for easy public deployment.  
 Google Drive for Demo :
 https://drive.google.com/drive/folders/1sjNTicQS6ycsTgAETt1Nkdpf2Wm4vDLs?usp=drive_link
+NoteBook link :
+https://colab.research.google.com/drive/1VmNC5wCOa9SKrljcEOqzn2C6v5PwPaRg?usp=sharing
